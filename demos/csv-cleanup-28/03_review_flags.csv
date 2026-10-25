@@ -1,0 +1,10 @@
+row_id,sku,variant,unit_price,issue,status
+001,MUG-101,Blue / 12oz,14.00,"Possible repeated SKU + variant (rows 001, 002, 023); review before changing",Needs customer decision
+002,MUG-101,Blue / 12oz,14.00,"Possible repeated SKU + variant (rows 001, 002, 023); review before changing",Needs customer decision
+007,BAG-004,Natural,11.50,"Possible repeated SKU + variant (rows 007, 008); review before changing",Needs customer decision
+008,BAG-004,Natural,11.50,"Possible repeated SKU + variant (rows 007, 008); review before changing",Needs customer decision
+015,BTL-019,500 ml / Silver,22.00,"Possible repeated SKU + variant (rows 015, 016); review before changing",Needs customer decision
+016,BTL-019,500 ml / Silver,22.OO,"Possible repeated SKU + variant (rows 015, 016); review before changing; Unit price contains an ambiguous character; do not guess",Needs customer decision
+023,MUG-101,Blue / 12oz,14.00,"Possible repeated SKU + variant (rows 001, 002, 023); review before changing",Needs customer decision
+026,KEY-009,Round / Red,9.00,"Possible repeated SKU + variant (rows 026, 027); review before changing",Needs customer decision
+027,KEY-009,Round / Red,9.00,"Possible repeated SKU + variant (rows 026, 027); review before changing",Needs customer decision
