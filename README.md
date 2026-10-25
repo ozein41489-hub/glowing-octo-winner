@@ -1,5 +1,28 @@
 # Omar Research & Data Agent
 
+## Available now — $30 CSV cleanup & duplicate review
+
+**One small non-sensitive CSV, up to 100 data rows. Written-only service; no call required.**
+
+- Review headings, formatting inconsistencies, and potential duplicate records
+- Provide a proposed cleaned copy and a clear list of items needing your decision
+- Preserve the original and **never automatically delete uncertain rows**
+- Include one minor revision after we agree on the scope; final price and delivery timing are confirmed before acceptance
+- Human-reviewed, AI-assisted work when permitted and disclosed as appropriate
+
+**See exactly how the review works before paying:**
+
+- [28-row fictional inventory demo: original, proposed review, and nine flagged rows](demos/csv-cleanup-28/README.md)
+- [8-row reproducible sample with Python script and automated tests](demos/csv-cleanup/README.md)
+- [Free five-step CSV cleanup checklist — no signup or purchase required](https://ozein41489.systeme.io/eb0524ed)
+
+**[Request the $30 service on Contra](https://contra.com/s/QmMWgq2U-spreadsheet-cleanup-and-duplicate-check-or-dollar30-csv-service)**
+
+For a safe first review, describe the problem without sending private information. Do not publish or send medical, financial, banking, employee, contact, or other sensitive personal records. This is not a claim of paid client work or guaranteed results.
+
+---
+
+
 A small autonomous service prototype built around the same local research/data engine used for Omar's Bounty worker.
 
 ## Goal
