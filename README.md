@@ -18,6 +18,8 @@
 
 **[Request the $30 service on Contra](https://contra.com/s/QmMWgq2U-spreadsheet-cleanup-and-duplicate-check-or-dollar30-csv-service)**
 
+**Price transparency:** Contra may add its platform and payment-processing fees to the $30 service price. Please review the full checkout total before paying; no purchase is required for the free checklist or portfolio examples.
+
 For a safe first review, describe the problem without sending private information. Do not publish or send medical, financial, banking, employee, contact, or other sensitive personal records. This is not a claim of paid client work or guaranteed results.
 
 ---
