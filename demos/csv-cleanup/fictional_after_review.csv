@@ -1,0 +1,9 @@
+sku,product_name,variant,price_usd,stock,review_flag
+0042,Ceramic mug,Blue,12.50,14,review_sku_used_for_multiple_variants
+0042,Ceramic mug,Blue,12.50,14,possible_duplicate_of_row_1; review_sku_used_for_multiple_variants
+0042,Ceramic mug,Red,12.50,9,review_sku_used_for_multiple_variants
+TS-RED-S,Cotton T-shirt,Small,19.99,5,
+TS-RED-M,Cotton T-shirt,Medium,19.99,6,
+TS-RED-S,Cotton T-shirt,Small,19.99,5,possible_duplicate_of_row_4
+NOTE-7,Desk mat,Black,,2,missing_price
+R-101,Notebook,,5.00,0,check_if_variant_optional
