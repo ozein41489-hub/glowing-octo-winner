@@ -38,6 +38,6 @@ This specific case study consists of these CSV files and a documented manual-rev
 
 No confidential, medical, financial, identity or customer information is used. This example is invented for portfolio purposes, not evidence of paid work or earnings. Do not share customer records or sensitive spreadsheets without permission.
 
-The optional [$30 written-only CSV cleanup and duplicate-review service](https://contra.com/s/QmMWgq2U-spreadsheet-cleanup-and-duplicate-check-or-dollar30-csv-service) covers one non-sensitive CSV with up to 100 data rows after a free scope check and agreement. Potential duplicates are reported for a decision, not automatically deleted. You can also use the [free five-step CSV cleanup checklist](https://ozein41489.systeme.io/eb0524ed) without purchasing anything.
+The optional [$30 written-only CSV cleanup and duplicate-review service](https://contra.com/s/QmMWgq2U-spreadsheet-cleanup-and-duplicate-check-or-dollar30-csv-service) covers one non-sensitive CSV with up to 100 data rows after a free scope check and agreement. Potential duplicates are reported for a decision, not automatically deleted. Contra may charge extra platform and payment-processing fees at checkout, so review the final total before purchasing. You can also use the [free five-step CSV cleanup checklist](https://ozein41489.systeme.io/eb0524ed) without purchasing anything.
 
 **Prepared with AI assistance.** Always review proposed changes against the original data and confirm decisions before any destructive action.
