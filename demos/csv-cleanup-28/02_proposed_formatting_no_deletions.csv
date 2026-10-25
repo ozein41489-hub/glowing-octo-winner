@@ -1,0 +1,29 @@
+row_id,sku,product_name,variant,unit_price,quantity
+001,MUG-101,Ceramic Mug,Blue / 12oz,14.00,12
+002,MUG-101,Ceramic Mug,Blue / 12oz,14.00,12
+003,MUG-101,Ceramic Mug,Green / 12oz,14.00,8
+004,TEE-201,Everyday Tee,Small / Navy,19.99,5
+005,TEE-201,Everyday Tee,Medium / Navy,19.99,9
+006,TEE-201,Everyday Tee,Large / Navy,19.99,4
+007,BAG-004,Canvas Tote,Natural,11.50,10
+008,BAG-004,Canvas Tote,Natural,11.50,10
+009,HAT-108,Cotton Cap,Black,18.00,6
+010,HAT-108,Cotton Cap,Blue,18.00,7
+011,PIN-022,Enamel Pin,Star,7.00,20
+012,PIN-022,Enamel Pin,Moon,7.00,15
+013,PEN-501,Gel Pen Set,Pack of 4,6.50,30
+014,PEN-501,Gel Pen Set,Pack of 8,12.00,18
+015,BTL-019,Steel Bottle,500 ml / Silver,22.00,9
+016,BTL-019,Steel Bottle,500 ml / Silver,22.OO,9
+017,NOTE-4,Notebook,Ruled / Blue,8.75,14
+018,NOTE-4,Notebook,Dot Grid / Blue,8.75,14
+019,MAT-31,Desk Mat,Small / Gray,24.99,7
+020,MAT-31,Desk Mat,Large / Gray,34.99,7
+021,WAL-120,Card Wallet,Brown,17.00,4
+022,WAL-120,Card Wallet,Black,17.00,6
+023,MUG-101,Ceramic Mug,Blue / 12oz,14.00,13
+024,STK-029,Sticker Pack,Nature,5.25,40
+025,STK-029,Sticker Pack,City,5.25,35
+026,KEY-009,Keychain,Round / Red,9.00,16
+027,KEY-009,Keychain,Round / Red,9.00,16
+028,KEY-009,Keychain,Square / Red,9.00,11
